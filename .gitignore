@@ -6,9 +6,14 @@
 *.pot
 *.pyc
 __pycache__/
+djangoScreenshot/__pycache__/
+myapp/__pycache__/
+myapp/migrations/__pycache__/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+media
+env/*.cfg
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
 # in your Git repository. Update and uncomment the following line accordingly.
